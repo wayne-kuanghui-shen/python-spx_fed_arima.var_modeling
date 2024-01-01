@@ -4,7 +4,7 @@
 
 ## ⛳️ Objectives 
 - Apply web scraping for Fed meeting-related data
-- Derive the Fed fund rate data into potentially useful forms such as a dummy variable of whether there was a meeting during that month and a categorical variable of the change(increase/unchange/decrease) of interest rate.
+- Derive the Fed fund rate data into potentially useful forms such as a dummy variable of whether there was a meeting during that month and a categorical variable of interest rate change(increase/unchange/decrease).
 - Input the Fed fund rate data as exogenous and endogenous variables in ARIMA model and VAR model, respectively
 
 ## 📍 Conclusions
